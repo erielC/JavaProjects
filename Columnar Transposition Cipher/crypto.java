@@ -35,5 +35,5 @@ public class crypto {
     scan.close();
     
     System.out.print(sentence(sentence));
-}
+  }
 }
